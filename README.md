@@ -30,7 +30,7 @@ such as car code, car name, engine type, steering wheel side and delivery date.
 To run the project locally, follow these steps:
 
 1. **Clone the repository**:
-   git clone https://github.com/your-username/car-filter-service.git
+   git clone https://github.com/NatalliaBorisenko/car-filter-service.git
    cd car-filter-service
 
 2 **Install dependencies: Ensure you have Maven installed, then run**:
